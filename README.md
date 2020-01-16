@@ -26,3 +26,8 @@ Now you will see recipes that match your search
 2. Open favorites view from the tab bar below
 3. Remove a favorite recipe by clicking the star again
 
+**Prototype link**
+
+Colors are not as vibrant in the online prototype compared to running it in Adobe XD.
+Therefor, I suggest to download the project and run it in XD.
+
