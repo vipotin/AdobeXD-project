@@ -31,4 +31,4 @@ Now you will see recipes that match your search
 https://xd.adobe.com/view/5e5752c0-f9d0-418d-4c0f-92c27dc46588-2866/?fullscreen&hints=off
 
 Colors are not as vibrant in the online prototype compared to running it in Adobe XD.
-Therefor, I suggest to download the project and run it in XD.
+Therefore, I suggest to download the project and run it in XD.
