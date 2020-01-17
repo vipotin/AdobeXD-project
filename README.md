@@ -8,6 +8,8 @@ Inspirecipe is designed to give inspiring recipes quickly for busy cookers
 - search with main ingredients, calories, and special diets
 - saving recipes for later use
 
+![InspiRecipe](screenshot-home.png)
+
 ### How to use the prototype?
 
 **Search**
@@ -18,13 +20,12 @@ Inspirecipe is designed to give inspiring recipes quickly for busy cookers
 4. Select a special diet (only gluten-free works for now)
 5. Search
 
-Now you will see recipes that match your search
+Now you will see recipes that match your search. Open recipe for detailed information.
 
 **Favorites**
 
 1. Click the star in the right corner of a recipe
 2. Open favorites view from the tab bar below
-3. Remove a favorite recipe by clicking the star again
 
 **Prototype link**
 
