@@ -2,7 +2,7 @@
 
 ## InspiRecipe
 
-Inspirecipe is designed to give inspiring recipes quickly for busy cookers
+Inspirecipe is designed to give inspiring recipes quickly for busy home chefs
 
 **InspiRecipe provides**
 - search with main ingredients, calories, and special diets
